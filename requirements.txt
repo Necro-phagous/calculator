@@ -1,0 +1,8 @@
+import PyAudio
+import SpeechRecognition
+import gTTS
+import NumPy
+import Math
+import Tkinter
+import OpenCV
+import CV2
